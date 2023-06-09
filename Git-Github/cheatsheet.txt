@@ -1,0 +1,22 @@
+CREAR REPOSITORIO LOCAL
+$ git init
+$ git config user.name "bhelening"
+$ git config user.email "bhelenbv@gmail.com"
+$ git remote add origin http://
+SUBIR CAMBIOS
+$ git add .
+$ git commit -m "mensajito"
+$ git push origin main
+CLONAR REPOSITORIO/DESCARGARLO
+$ git clone ssh://usuario@domain.com/repo.git
+DESCARGAR CAMBIOS
+$ git pull origin main
+REVISAR
+$ git status
+$ git log --oneline
+$ git remote -v
+RAMAS
+$ git branch nombrerama
+$ git branch -d (PARA BORRAR, 'D' lo forza)
+$ git checkout
+
