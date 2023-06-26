@@ -1,0 +1,12 @@
+Logré subir este archivo usando SSH, estos fueron los pasos que seguí:
+1. Inicié mi maquina virtual y confirmé que SSH estaba instalado y activo.
+2. Puse ifconfig para ver la ip de mi pc
+3. Abri la terminal en mi máquina (no virtual jeje) y cloqué el comando "ssh intr la ip que salio en mi maquina virtual"
+4. me solicitó la clave del root y la coloqué
+5. Ya estaba conectada a mi máquina
+6. cloné mi repositorio
+7. creé este archivo en la nueva rama Entrega5
+8. procederé a hacer git add . git  commit -m y git push
+9. luego hare merge con la rama principal
+
+Tuve algunos problemas para desarrollar la actividad pero hoy por fin lo logré :D
